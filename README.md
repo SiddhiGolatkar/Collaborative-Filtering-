@@ -1,2 +1,3 @@
-# Collaborative-Filtering-
-INSOFE - Project 7
+# Collaborative Filtering 
+
+## INSOFE - Project 7
